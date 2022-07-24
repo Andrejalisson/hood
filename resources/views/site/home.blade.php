@@ -158,9 +158,9 @@
                                 <div class="before-heading font-primary color">Sobre a nossa História</div>
                                 <h1 class="font-secondary display-4 fw-bold">A mais bela história de amor e suculência!</h1>
                                 <p class="lead">Hamburgueria artesanal, que teve sua abertura no dia 11 de setembro de 2020.<br>
-                                    A hood hamburgueria trabalha com produtos de altíssima qualidade. <br>
-                                    Seu diferencial começa na produção da carne, seus blends são feitos com carne nobre e muito bem temperados.<br>
-                                    Pão brioche com um sabor incrível, sem esquecer o molho que dispensa comentários.<br>
+                                    A hood hamburgueria trabalha com produtos de altíssima qualidade.<br>
+                                    Seu diferencial começa na produção da carne, seus blends são feitos com carnes nobres e muito bem temperadas.<br>
+                                    Pão brioche com um sabor incrível,  sem esquecer o molho que dispensa comentários.<br>
                                     A hood é o mais novo conceito de hambúrgueres e massas do Conjunto Ceará.<br>
                                     Em nosso cardápio você pode escolher uma linha extensa de produtos.</p>
 
