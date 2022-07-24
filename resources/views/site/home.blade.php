@@ -155,17 +155,17 @@
                     <div class="section my-0" style="background: #F0ECE7 url('demos/burger/images/icon-bg.png') repeat center center;">
                         <div class="container">
                             <div class="center bottommargin mx-auto" style="max-width: 700px">
-                                <div class="before-heading font-primary color">Our Story</div>
-                                <h1 class="font-secondary display-4 fw-bold">Burgers! You won't Find Anywhere Else</h1>
-                                <p class="lead">Holisticly initiate distinctive growth strategies without efficient scenarios. Enthusiastically restore effective infomediaries through one-to-one applications. Assertively build cross-platform core competencies through resource-leveling process improvements. Objectively actualize intermandated strategic theme areas and real-time e-services.</p>
-
-                                <a href="https://www.freepik.com" class="d-block op-05">Designed by Freepik</a>
+                                <div class="before-heading font-primary color">Sobre a nossa História</div>
+                                <h1 class="font-secondary display-4 fw-bold">A mais bela história de amor e suculência!</h1>
+                                <p class="lead">Hamburgueria artesanal, que teve sua abertura no dia 11 de setembro de 2020.<br>
+                                    A hood hamburgueria trabalha com produtos de altíssima qualidade. <br>
+                                    Seu diferencial começa na produção da carne, seus blends são feitos com carne nobre e muito bem temperados.<br>
+                                    Pão brioche com um sabor incrível, sem esquecer o molho que dispensa comentários.<br>
+                                    A hood é o mais novo conceito de hambúrgueres e massas do Conjunto Ceará.<br>
+                                    Em nosso cardápio você pode escolher uma linha extensa de produtos.</p>
 
                                 <div class="card mx-auto my-5 slide-img border-0" style="max-width: 450px" data-animate="img-to-left">
                                     <img src="demos/burger/images/others/chef.jpg" class="card-img" alt="...">
-                                    <div class="card-img-overlay dotted-bg dotted-bg-light d-flex align-items-center justify-content-center">
-                                        <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="stretched-link display-3 text-white image_fade"><i class="icon-play-circle"></i></a>
-                                    </div>
                                 </div>
 
                                 <img src="demos/burger/images/svg/items.svg" alt="All Items">
@@ -179,8 +179,8 @@
                             <div class="item-categories overflow-hidden col-md-4 dark col-padding position-relative" style="background-color: #0A0A0A;">
                                 <div class="cat-img"><img  data-animate="fadeInRight" src="demos/burger/images/cat/1.png" alt="Category Image"></div>
                                 <div class="cat-text">
-                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Burgers</h2>
-                                    <p class="mb-5">Credibly exploit one-to-one markets before enabled innovation. Synergistically incubate integrated communities whereas highly efficient alignments.</p>
+                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Hambúrgueres</h2>
+                                    <p class="mb-5">De amor à primeira vez você já ouviu falar, mas e à primeira mordida, já? 😍 Não? Pois deixa eu te apresentar nossos suculentos Hambúrgueres! .</p>
                                     <a href="#" data-scrollto="#menu" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
                                 </div>
                             </div>
@@ -188,7 +188,7 @@
                             <div class="item-categories overflow-hidden col-md-4 dark col-padding position-relative" style="background-color: #1B1B1B;">
                                 <div class="cat-img"><img  data-animate="fadeInRight" src="demos/burger/images/cat/3.png" alt="Category Image"></div>
                                 <div class="cat-text">
-                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Snacks</h2>
+                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Petiscos</h2>
                                     <p class="mb-5">Authoritatively envisioneer 24/365 benefits via bricks-and-clicks outsourcing. Phosfluorescently redefine real-time relationships with interoperable sources. Efficiently.</p>
                                     <a href="#" data-scrollto="#menu-snacks" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
                                 </div>
@@ -197,7 +197,7 @@
                             <div class="item-categories overflow-hidden col-md-4 dark col-padding position-relative" style="background-color: #262626;">
                                 <div class="cat-img"><img  data-animate="fadeInRight" src="demos/burger/images/cat/4.png" alt="Category Image"></div>
                                 <div class="cat-text">
-                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Beverages</h2>
+                                    <h2 class="fw-bold ls1 text-uppercase mb-5">Bebidas</h2>
                                     <p class="mb-5">Dramatically promote collaborative networks via client-based quality vectors. Appropriately transform seamless applications after leading-edge models.</p>
                                     <a href="#" data-scrollto="#menu-beverages" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
                                 </div>
