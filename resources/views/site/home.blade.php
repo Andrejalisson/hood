@@ -189,7 +189,8 @@
                                 <div class="cat-img"><img  data-animate="fadeInRight" src="demos/burger/images/cat/3.png" alt="Category Image"></div>
                                 <div class="cat-text">
                                     <h2 class="fw-bold ls1 text-uppercase mb-5">Petiscos</h2>
-                                    <p class="mb-5">Authoritatively envisioneer 24/365 benefits via bricks-and-clicks outsourcing. Phosfluorescently redefine real-time relationships with interoperable sources. Efficiently.</p>
+                                    <p class="mb-5">Se qualidade e delicia fossem comorbidade, os nossos Petiscos estariam no grupo de risco! 😂
+                                        Aqui na Hood tem qualidade e sabor a cada mordida 🤤</p>
                                     <a href="#" data-scrollto="#menu-snacks" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
                                 </div>
                             </div>
