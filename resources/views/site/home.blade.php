@@ -181,7 +181,7 @@
                                 <div class="cat-text">
                                     <h2 class="fw-bold ls1 text-uppercase mb-5">Hambúrgueres</h2>
                                     <p class="mb-5">De amor à primeira vez você já ouviu falar, mas e à primeira mordida, já? 😍 Não? Pois deixa eu te apresentar nossos suculentos Hambúrgueres! .</p>
-                                    <a href="#" data-scrollto="#menu" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
+                                    <a href="#" data-scrollto="#menu" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">Ver todos</a>
                                 </div>
                             </div>
 
@@ -191,7 +191,7 @@
                                     <h2 class="fw-bold ls1 text-uppercase mb-5">Petiscos</h2>
                                     <p class="mb-5">Se qualidade e delicia fossem comorbidade, os nossos Petiscos estariam no grupo de risco! 😂
                                         Aqui na Hood tem qualidade e sabor a cada mordida 🤤</p>
-                                    <a href="#" data-scrollto="#menu-snacks" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
+                                    <a href="#" data-scrollto="#menu-snacks" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">Ver todos</a>
                                 </div>
                             </div>
 
@@ -199,8 +199,8 @@
                                 <div class="cat-img"><img  data-animate="fadeInRight" src="demos/burger/images/cat/4.png" alt="Category Image"></div>
                                 <div class="cat-text">
                                     <h2 class="fw-bold ls1 text-uppercase mb-5">Bebidas</h2>
-                                    <p class="mb-5">Dramatically promote collaborative networks via client-based quality vectors. Appropriately transform seamless applications after leading-edge models.</p>
-                                    <a href="#" data-scrollto="#menu-beverages" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">View All</a>
+                                    <p class="mb-5">Temos todas as cores e sabores agradando todo paladar com ou sem teor alcoólico para você e os pequenos da casa.🖤🍹</p>
+                                    <a href="#" data-scrollto="#menu-beverages" data-easing="easeInOutExpo" data-speed="1250" class="button button-rounded px-4 button-border button-light button-white fw-semibold ms-0">Ver todos</a>
                                 </div>
                             </div>
 
@@ -211,8 +211,8 @@
                         <img src="demos/burger/images/others/section-1.jpg" alt="Section Image">
                         <div class="container dark">
                             <div class="center bottommargin-lg">
-                                <div class="before-heading font-secondary color">Best Quality</div>
-                                <h1 class="font-border display-4 ls1 fw-bold">Ingredients</h1>
+                                <div class="before-heading font-secondary color">A mais alta qualidade</div>
+                                <h1 class="font-border display-4 ls1 fw-bold">Nossos Ingredientes</h1>
                             </div>
 
                             <div class="clear"></div>
